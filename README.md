@@ -11,15 +11,10 @@ It will tell them the interpretation of their BMI based on the BMI value.
 - Above 35 they are clinically obese.
 
 # Example Input
-```
 weight = 85
-``
-```
 height = 1.75
-```
 # Example Output
 85 ÷ (1.75 x 1.75) =  27.755102040816325
-```
 Your BMI is 28, you are slightly overweight.
 ```
 Day 3.2 Challenge of 100 Days of Code - The Complete Python Pro Bootcamp by Angela 
